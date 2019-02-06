@@ -63,3 +63,7 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# Credential sensitive files
+functions/twilio.js
+functions/survice_account.json
